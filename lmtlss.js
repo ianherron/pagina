@@ -1,8 +1,4 @@
 
-
-
-
-
 ScrollReveal().reveal('.showcase', { delay: 500 });
 ScrollReveal().reveal('.mission', { delay: 500 });
 ScrollReveal().reveal('.vision', { delay: 500 });
