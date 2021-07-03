@@ -292,12 +292,12 @@ img {
 @media only screen and (max-width: 700px) {
 
     body {
-    background: url(img/stormseeker-SrtIO_uBlVI-unsplash.gif);
+    background: url(img/stormseeker-SrtIO_uBlVI-unsplash.gif) no-repeat scroll right top #000000;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    overflow-x: auto;
+    -webkit-background-size:cover;  
     }
 
     #logo-1 {
