@@ -310,7 +310,7 @@ img {
     }
 
     .showcase p {
-        font-size: 15px;
+        font-size: 14px;
         align-items: center;
         justify-content: center;
     }
@@ -349,7 +349,7 @@ img {
         grid-template-columns: 1fr;
     }
     .values {
-        font-size: 16px;
+        font-size: 15px;
     }
     .vision {
         margin-top: 200px;
