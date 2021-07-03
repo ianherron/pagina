@@ -360,4 +360,9 @@ img {
     }
  
  }
+
+@media screen and (max-device-width: 480px) {
+/* CSS para iPhone */   
+-webkit-text-size-adjust: none;
+}
    
